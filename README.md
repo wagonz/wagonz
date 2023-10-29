@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wagonz
-- 👀 I’m interested in cybersecurity 
+- 👀 I’m interested in devops 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning methods 
 - 📫 How to reach me wascarg03@gmail.com
